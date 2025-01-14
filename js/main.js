@@ -6,6 +6,7 @@ $(function(){
         slidesToShow: 3,
         slidesToScroll: 3,
         dots: true,
+        speed: 1000,
 
     });
 
